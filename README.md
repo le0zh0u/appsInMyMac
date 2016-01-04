@@ -53,6 +53,7 @@ collect my application in mac
 * Kindle
 * feedly / Reeder3
 * xmarks / RainDrop.io
+* Quiver
 
 
 ## Development
