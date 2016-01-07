@@ -4,7 +4,7 @@ collect my application in mac
 ## Life
 * wunderlist(奇妙清单)
 * Chrome / FireFox
-* Xmind/MideNode
+* Xmind/MindNode
 * GoAgentX / Lantern
 * Near Lock
 * Alfred 2
