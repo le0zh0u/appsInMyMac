@@ -60,13 +60,44 @@ collect my application in mac
 
 * Daisy Disk / CleanMyMac 3
 
+	````
+	本地装的是CleanMyMac3，据说很流氓，但个人使用还好，能删就行。Daisy Disk没用过。
+	````
+
+
 ****
 
 * Dropbox / 百度云盘
+
+	````
+	对于备份还是挺有用的
+	````
+	
+
 * bartender2
+
+	````
+	主要用于控制最上面一行的小图标显示
+	````
+
 * Thunder
+
+	````
+	迅雷，下载用，但可能有更好的。
+	````
+
 * 1Password
+
+	````
+	保存密码，app和mac都有，插件也有，挺方便的。但貌似也有一个类似的，具体忘了。
+	````
+
 * Timing / RescueTime
+
+	````
+	追踪机器软件使用时间，从而可以看出今天都花在了什么上，控制自己的效率。
+	````
+
 
 
 
