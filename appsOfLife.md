@@ -86,10 +86,10 @@ collect my application in mac
 	迅雷，下载用，但可能有更好的。
 	````
 
-* 1Password 
+* 1Password / Dashlane
 
 	````
-	保存密码，app和mac都有，插件也有，挺方便的。但貌似也有一个类似的，具体忘了。
+	保存密码，app和mac都有，插件也有，挺方便的。Dashlane可以保存app的密码。
 	````
 
 * Timing / RescueTime
