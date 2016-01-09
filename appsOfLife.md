@@ -54,11 +54,16 @@ collect my application in mac
 
 * YoudaoDict
 
+	**Link:**App Store
+
 	````
 	有道词典，对于看英文资料还是比较有用的
 	````	
 
 * Daisy Disk / CleanMyMac 3
+
+	**Link:** [CleanMyMac 3](http://www.macapp.so/cleanmymac/ "下载链接")
+	[Dasiny Disk](http://www.waitsun.com/daisydisk-4-0-b7.html "下载链接")
 
 	````
 	本地装的是CleanMyMac3，据说很流氓，但个人使用还好，能删就行。Daisy Disk没用过。
@@ -68,6 +73,8 @@ collect my application in mac
 ****
 
 * Dropbox / 百度云盘
+
+	**Link:**[百度云盘](http://pan.baidu.com/download#pan "下载地址")
 
 	````
 	对于备份还是挺有用的
@@ -89,7 +96,7 @@ collect my application in mac
 * 1Password / Dashlane
 
 	````
-	保存密码，app和mac都有，插件也有，挺方便的。Dashlane可以保存app的密码。
+	保存密码，app和mac都有，插件也有，挺方便的。Dashlane可以保存app的密码，并且是免费的。
 	````
 
 * Timing / RescueTime
