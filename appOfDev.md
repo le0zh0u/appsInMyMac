@@ -55,8 +55,17 @@ collect my application in mac
 
 #### SoftWare Flow
 * Axure RP Pro
+
+		制作原型
+
 * MockingBot
+
+		制作软件原型以及交互
+
 * yEd
+
+		画流程图等
+
 
 #### Remote
 * FileZilla
