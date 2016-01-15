@@ -37,8 +37,21 @@ collect my application in mac
 
 #### Terminal
 * MacVIM
+
+		这个没用过。
+
 * iterm2
+
+	**Link:** [iterm2](http://www.iterm2.com/ "官方网站")
+
+		这个挺好用的
+
 * secureCRT
+
+	**Link:** [secureCRT](https://www.vandyke.com/products/securecrt/ "官方网站")
+
+		这个对于需要连接多台服务器而言是非常实用的。但是是收费的
+
 
 #### SoftWare Flow
 * Axure RP Pro
