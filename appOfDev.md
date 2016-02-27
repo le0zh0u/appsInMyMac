@@ -9,7 +9,7 @@ collect my application in mac
 	**Link:**[IntelliJ IDEA](https://www.jetbrains.com/idea/ "官方网站")
 	
 	````
-	开发神奇
+	开发神器
 	````
 
 
@@ -18,7 +18,7 @@ collect my application in mac
 	**Link:**[WebStorm](https://www.jetbrains.com/webstorm/ "官方网站")
 	
 	````
-	前端开发神奇
+	前端开发神器
 	````
 
 * Sublime Text

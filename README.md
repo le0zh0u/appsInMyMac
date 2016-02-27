@@ -22,6 +22,7 @@ collect my application in mac
 * wechat for mac
 * Foxmail
 * Moxtra
+* dingding for mac
 
 
 ####Tool
@@ -29,6 +30,8 @@ collect my application in mac
 * Boom2
 * BetterZip
 * Snip
+* Scroll Reverser
+* Manico
 
 ####KeyMap
 * ShiftIt

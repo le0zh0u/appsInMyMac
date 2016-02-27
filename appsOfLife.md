@@ -106,6 +106,47 @@ collect my application in mac
 	````
 
 
+#### Communication
+
+* QQ for mac
+	**Link:** AppStroe.`Free`
+	
+	````
+	这个马化腾已遍布全中国，不介绍，不解释。
+	````
+* wechar for mac
+	**Link:** AppStore.`Free`
+	
+	````
+	这个也已遍布全中国，不介绍，不解释。
+	````
+* dingding for mac
+	**Link:** AppStore.`Free`
+	
+	````
+	阿里下一步的社交梦，因公司工作需要提交日志，感觉mac上写更加方便，故安装
+	````
+* Foxmail
+	**Link:** AppStore.`Free`
+	
+	````
+	之前挺好用，但有时不稳定，已换成mac原生邮件进行收发邮件。
+	````
+* Moxtra
+	**Link:** AppStore. `Free`
+	
+	````
+	在一次同事推荐下使用了一下，功能做的比较齐全，可用于小团队的交流以及资料保存等，也可用于远程团队的交流。
+	````
+	
+#### Tool
+* Moom
+* Boom2
+* BetterZip
+* Snip
+* Scroll Reverser
+* Manico
+
 
 
 
