@@ -109,30 +109,35 @@ collect my application in mac
 #### Communication
 
 * QQ for mac
+
 	**Link:** AppStroe.`Free`
 	
 	````
 	这个马化腾已遍布全中国，不介绍，不解释。
 	````
 * wechar for mac
+	
 	**Link:** AppStore.`Free`
 	
 	````
 	这个也已遍布全中国，不介绍，不解释。
 	````
 * dingding for mac
+	
 	**Link:** AppStore.`Free`
 	
 	````
 	阿里下一步的社交梦，因公司工作需要提交日志，感觉mac上写更加方便，故安装
 	````
 * Foxmail
+	
 	**Link:** AppStore.`Free`
 	
 	````
 	之前挺好用，但有时不稳定，已换成mac原生邮件进行收发邮件。
 	````
 * Moxtra
+	
 	**Link:** AppStore. `Free`
 	
 	````
@@ -141,11 +146,52 @@ collect my application in mac
 	
 #### Tool
 * Moom
+
+	**Link:** 网上搜下
+	
+	````
+	在最新版的macOS中，已经支持了通过缩小按钮使两个页面对半占据屏幕，但仅限于新建屏幕中。但moom能在一个屏幕中实现多种的不同窗口的排版，而且能自定义比例。
+	````
 * Boom2
+
+	**Link:** 网上搜下
+	
+	````
+	音效增强软件，本人基本没用过。   
+	````
+
 * BetterZip
+
+	**Link:** 网上搜下
+	
+	````
+	解压软件，可解压rar
+	````
+
 * Snip
+
+	**Link:** 网上搜下
+	
+	````
+	截图软件
+	````
+
 * Scroll Reverser
+
+	**Link:** 网上搜下
+	
+	````
+	外接鼠标时，必备神器。可以将TrackPad和Mouse滚轮的方向相反
+	````
+
 * Manico
+
+	**Link:** 网上搜下
+	
+	````
+	可以通过option键加上数字以及部分字母键实现app的顺利切换。尽可能做到切换应用不用鼠标其他外接设备。
+	````
+
 
 
 
