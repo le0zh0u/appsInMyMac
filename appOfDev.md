@@ -69,10 +69,18 @@ collect my application in mac
 
 #### Remote
 * FileZilla
+		
+		远程连接工具
 
 #### SQl
 * sqlitebrower
+
+		数据库查看工具
+
 * pgAdmin3 / PSequel
+
+		数据库查看工具
+
 
 #### Java
 * JD-GUI  
@@ -82,12 +90,33 @@ collect my application in mac
 
 #### Tool
 * Postman
+
+		chrome的 插件，据说是印度阿三写的，但挺好用的，可以尝试学习使用。可配置性也比较高
+
 * HostAdmin App
+
+		chrome插件，管理本地的host文件，相比较修改文件，交互较好，适合产品经理等非码农用户
+
 * Dash
+
+		mac上文档查阅神器，虽然我用的不多，但留着以备不时之需
+
 * MacDown/Mou
+
+		写markdown的工具，Mou貌似已经烂尾，是某位中国人写的。
+
 * WakaTime
 * Charles
 
+		图标是个花瓶，也是一个神器，我用它查看各种请求数据。
+
+
 #### Git || SVN
 * cornerstone(svn)/sourceTree(git)
+
+		开源的git客户端，用sourceTree，基本满足使用所有要求
+
 * GitHub Desktop
+
+		github官方客户端，但感觉交互以及使用习惯上没有sourceTree舒服。
+
