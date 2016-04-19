@@ -80,7 +80,10 @@ collect my application in mac
 * pgAdmin3 / PSequel
 
 		数据库查看工具
-
+		
+* Navicat Premium
+		
+		数据库可视化工具
 
 #### Java
 * JD-GUI  
