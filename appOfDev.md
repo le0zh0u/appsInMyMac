@@ -102,7 +102,7 @@ collect my application in mac
 
 * Dash
 
-		mac上文档查阅神器，虽然我用的不多，但留着以备不时之需
+		mac上文档查阅神器，虽然我用的不多，但留着以备不时之需.
 
 * MacDown/Mou
 
