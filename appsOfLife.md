@@ -173,7 +173,7 @@ collect my application in mac
 	**Link:** 网上搜下
 	
 	````
-	截图软件
+	截图软件，不过一般都用腾讯自带的了
 	````
 
 * Scroll Reverser
